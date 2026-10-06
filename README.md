@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👨‍💻 Developer & tech enthusiast<br>- 🤖 Exploring AI, AI agents & automation<br>- 🌐 Building web projects and digital products<br>- ⚙️ Automating workflows & experimenting with new tools<br>- 🚀 Interested in startups, SaaS & emerging technologies<br>- 🧪 Open-source enthusiast and constant learner<br>- 💡 Turning ideas into practical projects
+  👨‍💻 Developer & tech enthusiast<br>- 🤖 Exploring AI, AI agents & automation<br>- 🌐 Building web projects and digital products<br>- ⚙️ Automating workflows & experimenting with new tools<br>- 🚀 Interested in startups, SaaS & emerging technologies<br>- 🧪 Open-source enthusiast and constant learner<br>- 💡 Turning ideas into practical projects
 
 
 # 💻 Tech Stack:
